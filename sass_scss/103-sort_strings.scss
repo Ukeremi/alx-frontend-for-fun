@@ -1,0 +1,5 @@
+/* Write a Sass file that sorts the variable $list_to_sort and prints the sorted list in the debug output. */
+
+$sorted_list: sort($list_to_sort);
+
+@debug $sorted_list;
