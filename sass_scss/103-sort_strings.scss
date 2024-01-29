@@ -2,4 +2,4 @@
 
 $sorted_list: sort($list_to_sort);
 
-@debug $sorted_list;
+@debug "Sorted List: #{$list_sorted}";
